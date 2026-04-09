@@ -23,4 +23,4 @@ This project analyzes a chess dataset using Power BI to extract meaningful insig
 - Player performance varies between white and black
 
 ## 🔗 GitHub Repository Link
-(Add your repo link here)
+https://github.com/chowdary0708/chess-data-visualization-dashboard
